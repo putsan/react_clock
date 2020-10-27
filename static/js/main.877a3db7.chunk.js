@@ -1,2 +1,0 @@
-(this.webpackJsonpreact_clock=this.webpackJsonpreact_clock||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var c=n(0),a=n.n(c),r=n(2),l=n.n(r),o=(n(8),function(){return setInterval((function(){var e=new Date;console.log(e.toLocaleTimeString())}),1e3),a.a.createElement("div",{className:"App"},a.a.createElement("h1",null,"React clock"),a.a.createElement("p",null,"Current time:"," "))});l.a.render(a.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.877a3db7.chunk.js.map
